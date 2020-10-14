@@ -5,3 +5,5 @@ Covid-19 Research Articles -  Explore Text Mining Tools
 
 -Explored Big Data Platforms like Hadoop & Google DataProc using PySpark
 
+Note: the html files are python notebooks downloaded as html
+
